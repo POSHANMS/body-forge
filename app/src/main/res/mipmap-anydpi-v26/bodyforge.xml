@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/bodyforge_background"/>
+    <foreground android:drawable="@mipmap/bodyforge_foreground"/>
+    <monochrome android:drawable="@mipmap/bodyforge_foreground"/>
+</adaptive-icon>
